@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+	"libbch-sys",
+	"libbch",
+]

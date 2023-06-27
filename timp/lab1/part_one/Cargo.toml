@@ -1,0 +1,13 @@
+[package]
+name = "part_one"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rust-argon2 = "1.0"
+nix = "0.25"
+sudo = "0.5"
+rpassword = "7.0"
+file-matcher = "0.7"

@@ -1,0 +1,13 @@
+[package]
+name = "part_two"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+yew = "0.19.3"
+gloo = "0.8"
+wasm-bindgen = "0.2.83"
+web-sys = "0.3.60"
+rust-argon2 = "1.0"
